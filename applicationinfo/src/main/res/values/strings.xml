@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_no_application_found">No Application Found !</string>
+    <string name="installed">Installed</string>
+    <string name="uninstall_successful">Uninstall Successful</string>
+</resources>

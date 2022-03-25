@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomeLauncher</string>
+    <string name="tag_item_application">tag_item_application</string>
+    <string name="string_search_for_local_apps">Search for local apps</string>
+</resources>
